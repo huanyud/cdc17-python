@@ -1,8 +1,7 @@
 # cdc17-python
-Python code for our CDC 2017 paper
+Python code for our CDC 2017 paper:
 
-## Algorithm
-The algorithm simulated here is from “**Multi-Agent Discrete Search with Limited Visibility**” by **H. Ding** and **D. Castanon**, Proc. IEEE Conference on Decision and Control (CDC), 2017.
+Huanyu Ding and David A. Castañón, “Multi-agent discrete search with limited visibility,” In Proc. IEEE Conference on Decision and Control (CDC), Melbourne, Australia, 2017. 
 
 ## Code Structure
 * alg.ipynb — Python notebook implementing the algorithm with detailed comments
